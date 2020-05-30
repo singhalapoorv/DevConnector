@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://apoorv1234:apoorv1234@devconnector-ikles.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://apoorv1234:apoorv1234@devconnector-ikles.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "mysecrettoken"
 }
